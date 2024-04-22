@@ -1,6 +1,6 @@
 Les propositiions :
 
-La lumière d'un véhicule est allumée, la porte droite est allumée, la porte gauche fermée et l'interrupteur du plafonnier n'est pas appuyé.
+La lumière d'un véhicule est allumée, la porte droite est ouverte, la porte gauche fermée et l'interrupteur du plafonnier n'est pas appuyé.
 
 La lumière d'un véhicule est allumée, la porte gauche est ouverte, la porte droite est fermée et l'interrupteur du plafonnier n'est pas appuyé.
 
