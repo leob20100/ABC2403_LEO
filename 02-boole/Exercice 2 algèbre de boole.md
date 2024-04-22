@@ -1,4 +1,4 @@
-Les propositiions :
+Les propositions :
 
 La lumière d'un véhicule est allumée, la porte droite est ouverte, la porte gauche fermée et l'interrupteur du plafonnier n'est pas appuyé.
 
