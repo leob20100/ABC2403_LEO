@@ -87,3 +87,13 @@ volumeRayon est un NOMBRE REEL
 
 TRAITEMENT
 
+ECRIRE "Veuillez saisir le rayon d'une sphère"
+LIRE rayon
+
+aireRayon <-- 4 pi rayon^2
+
+volumeRayon <-- (4 pi rayon^3) / 3
+
+RESULTAT
+
+ECRIRE "L'aire d'une sphère est de", aireRayon, "et le volume d'une sphère est de", volumeRayon, "."
