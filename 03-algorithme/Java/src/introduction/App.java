@@ -14,7 +14,7 @@ public class App {
 	String prenom; // Déclaration d'une variable " prenom" de type "chaine de caractères"
 	
 	int age; // Déclaration d'une variable "age" de type "Nombre Entier 32 bits" (Valeur Scalaire) 
-	// (plage de valeur d'un INT - 2 147 000 000 à + 2 147 000 000)
+	// (plage de valeur d'un INT - 2 147 483 648 à + 2 147 483 647)
 	
 	long soldeBancaire;  // Déclaration d'une variable "soldeBancaire" de type "Nombre Entier 64 bits" (Valeur Scalaire)
 	
@@ -31,6 +31,8 @@ public class App {
 	prenom = "juju"; // Modification de la valeur de la variable "prenom"
 	
 	System.out.println("bonjour " + prenom);
+	
+	
 	
 	
 	
