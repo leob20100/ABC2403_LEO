@@ -158,17 +158,21 @@ LIRE nombreA
 ECRIRE "Veuillez afficher la valeur de B"
 LIRE nombreB
 
-ECRIRE "Veuillez afficher la valeur de C"
-LIRE nombreC
+ECRIRE "La valeur de A est ", nombreA
+LIRE nombreA
 
-ECRIRE "Veuillez transmettre la valeur de A dans C"
-LIRE nombreA, nombreC
+ECRIRE "La valeur de B est ", nombreB
+LIRE nombreB
 
-ECRIRE "Veuillez transmettre la valeur de B dans A"
-LIRE nombreB, nombreA
+ECRIRE "La valeur de C est", nombreA
+LIRE nombreA
 
-ECRIRE "Veuillez transmettre la valeur de C dans B"
-LIRE nombreC, nombre B
+ECRIRE "La valeur de A est" nombreB
+LIRE nombreB
+
+ECRIRE "La valeur de B est nombreA
+LIRE nombreA
+
 
 RESULTAT
 
