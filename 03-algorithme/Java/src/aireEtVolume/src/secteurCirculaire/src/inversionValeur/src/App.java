@@ -26,7 +26,7 @@ public class App {
 		
 		nombreB = nombreC;
 		
-		System.out.println("Le contenu A est " + nombreB + " ." +  " Le contenu A est transmis dans le contenu C qui est de " + nombreC + " et le contenu B qui est de " + nombreA + " est transmis dans le contenu A qui est maintenat de " + nombreA + " . " +  " La valeur du contenu A est maintenant  de " + nombreA + " et la valeur du contenu B est maintenant de " + nombreB);
+		System.out.println("Le contenu A est " + nombreB + " ." +  " \nLe contenu A est transmis dans le contenu C qui est de " + nombreC + " \net le contenu B qui est de " + nombreA + " \nest transmis dans le contenu A qui est maintenat de " + nombreA + " . " +  " \nLa valeur du contenu A est maintenant  de " + nombreA + " \net la valeur du contenu B est maintenant de " + nombreB);
 		
 		
 		
