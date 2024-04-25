@@ -158,21 +158,9 @@ LIRE nombreA
 ECRIRE "Veuillez afficher la valeur de B"
 LIRE nombreB
 
-ECRIRE "La valeur de A est ", nombreA
-LIRE nombreA
-
-ECRIRE "La valeur de B est ", nombreB
-LIRE nombreB
-
-ECRIRE "La valeur de C est", nombreA
-LIRE nombreA
-
-ECRIRE "La valeur de A est" nombreB
-LIRE nombreB
-
-ECRIRE "La valeur de B est nombreA
-LIRE nombreA
-
+C <-- A
+A <-- B
+B <-- C
 
 RESULTAT
 
