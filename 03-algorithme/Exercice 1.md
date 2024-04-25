@@ -159,7 +159,9 @@ ECRIRE "Veuillez afficher la valeur de B"
 LIRE nombreB
 
 C <-- A
+
 A <-- B
+
 B <-- C
 
 RESULTAT
