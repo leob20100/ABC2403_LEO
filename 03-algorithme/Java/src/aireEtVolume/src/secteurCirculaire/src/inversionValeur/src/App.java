@@ -20,14 +20,14 @@ public class App {
 		
 		nombreB = sc.nextInt();
 		
+		System.out.println("Le contenu de A est " + nombreA + " Le contenu de B est " + nombreB);
 		nombreC = nombreA;
 		
 		nombreA = nombreB;
 		
 		nombreB = nombreC;
 		
-		System.out.println("Le contenu A est " + nombreB + " ." +  " \nLe contenu A est transmis dans le contenu C qui est de " + nombreC + " \net le contenu B qui est de " + nombreA + " \nest transmis dans le contenu A qui est maintenat de " + nombreA + " . " +  " \nLa valeur du contenu A est maintenant  de " + nombreA + " \net la valeur du contenu B est maintenant de " + nombreB);
-		
+		System.out.println("Le contenu de A est " + nombreA + " Le contenu de B est " + nombreB);
 		
 		sc.close();
 		
