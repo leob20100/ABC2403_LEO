@@ -20,12 +20,12 @@ public class App {
 		
 		aireRayon = 4.0 * Math.PI * Math.pow(rayon, 2);
 		
-		volumeRayon = 4.0 * Math.PI * Math.pow(rayon, 3) / 3;
+		volumeRayon = (4.0 * Math.PI * Math.pow(rayon, 3)) / 3;
 		
 		System.out.println("L'aire d'une spère est de " + aireRayon + " et le volume d'une spère est de " + volumeRayon);
 				
 				
-		
+		sc.close();
 	}
 
 }

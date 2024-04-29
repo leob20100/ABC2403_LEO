@@ -14,9 +14,11 @@ nombreC est un NOMBRE ENTIER
 
 TRAITEMENT
 
-ECRIRE "Veuillez afficher la valeur de A" LIRE nombreA
+ECRIRE "Veuillez afficher la valeur de A" 
+LIRE nombreA
 
-ECRIRE "Veuillez afficher la valeur de B" LIRE nombreB
+ECRIRE "Veuillez afficher la valeur de B" 
+LIRE nombreB
 
 C <-- A
 
