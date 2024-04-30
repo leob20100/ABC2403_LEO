@@ -22,8 +22,6 @@ public class App {
 	sc.close(); // fermeture du scanner (OBLIGATOIRE)
 	
 	
-	
-		
 	}
 
 }
