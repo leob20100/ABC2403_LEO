@@ -19,8 +19,21 @@ ECRIRE "Saisissez votre second nombre
 
 LIRE nombreEntier2
 
-SI nombreEntier1 >=0 ALORS
+SI nombreEntier1 * nombreEntier2 >=0 ALORS
+
 ECRIRE "Ce nombre est positif"
+
+SINON ALORS
+
+ECRIRE "Ce nombre est négatif"
+
+ET SI nombreEntier2 * nombreEntier1 >=0 ALORS
+
+ECRIRE "Ce nombre est positif"
+
+SINON ALORS 
+
+ECRIRE "Ce nombre est négatif"
 
 
 ```
