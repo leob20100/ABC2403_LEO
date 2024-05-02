@@ -1,4 +1,4 @@
-# EXERCICE 1.1 : Hello Word
+g# EXERCICE 1.1 : Hello Word
 ...
 
 Ecrire "Hello Word"
