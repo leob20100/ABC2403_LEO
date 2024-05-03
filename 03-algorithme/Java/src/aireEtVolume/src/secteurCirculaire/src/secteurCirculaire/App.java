@@ -26,6 +26,7 @@ public class App {
 		
 		System.out.println ("L'aire du secteur circulaire est de " + aireSecteur);
 		
+		sc.close();
 	}
 
 }
