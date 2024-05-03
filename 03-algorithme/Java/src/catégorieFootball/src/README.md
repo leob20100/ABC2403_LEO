@@ -58,4 +58,7 @@ ECRIRE "Votre catégorie d'age est", catégorie
 ET SI age < 35 ALORS
 
 ECRIRE "Votre catégorie d'age est", catégorie
+
+ET SI age > 35 ALORS
+ECRIRE "Votre catégorie d'age est ", catégorie
 ```

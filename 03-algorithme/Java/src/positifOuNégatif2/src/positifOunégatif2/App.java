@@ -28,15 +28,7 @@ public class App {
 			
 			System.out.println("Ce nombre est négatif ");
 		}
-	
-		if (nombreEntier2 * nombreEntier1 >=0) {
-			
-			System.out.println("Ce nombre est positif ");
-		}
-		else {
-			
-			System.out.println("Ce nombre est négatif ");
-		}
+
 		sc.close();
 }
 	
