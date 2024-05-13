@@ -7,7 +7,7 @@ public class App {
 	public static void main(String[] args) {
 		
 	int age;
-	String catégorie = null;	
+	String categorie = null;	
 		
 	Scanner sc = new Scanner(System.in);
 		
@@ -16,27 +16,27 @@ public class App {
 	age = sc.nextInt();
 	
 	if (age < 5) {
-		catégorie = "Trop jeune";
+		categorie = "Trop jeune";
 	} else if (age < 7) {
-		catégorie = "Débutant";
+		categorie = "Débutant";
 	} else if (age < 9) {
-		catégorie = "Poussin";
+		categorie = "Poussin";
 	} else if (age < 11) {
-		catégorie = "Benjamin";
+		categorie = "Benjamin";
 	} else if (age < 13) {
-		catégorie = "Pupille";
+		categorie = "Pupille";
 	} else if (age < 15) {
-		catégorie = "Minime";
+		categorie = "Minime";
 	} else if (age < 17) {
-		catégorie = "Cadet";
+		categorie = "Cadet";
 	} else if (age < 19) {
-		catégorie = "Junior";
+		categorie = "Junior";
 	} else if (age < 35) {
-		catégorie = "Sénior";
-	} else if (age > 35) {
-		catégorie = "Vétéran";
+		categorie = "Sénior";
+	} else {
+		categorie = "Vétéran";
 	}
-	System.out.println("Votre catégorie d'age est " + catégorie);
+	System.out.println("Votre catégorie d'age est " + categorie);
 	
 	sc.close(); }
 

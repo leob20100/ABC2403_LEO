@@ -15,7 +15,7 @@ Vétéran : 35 ans et +
 VARIABLES
 
 age est un ENTIER
-catégorie est une CHAINE DE CARACTERE
+categorie est une CHAINE DE CARACTERE
 
 TRAITEMENT
 
@@ -24,41 +24,28 @@ ECRIRE "Saisissez votre âge"
 LIRE age
 
 SI age < 5 ALORS
-
-ECRIRE "Votre catégorie d'age est", catégorie
-
+	categorie := "Trop jeune"
 ET SI age < 7 ALORS
-
-ECRIRE "Votre catégorie d'age est" , catégorie
-
+	categorie := "Débutant"
 ET SI age < 9 ALORS
-
-ECRIRE "Votre catégorie d'age est", catégorie
-
+	categorie := "Poussin"
 ET SI age < 11 ALORS
-
-ECRIRE "Votre catégorie d'age est", catégorie
-
+	categorie := "Benjamin"
 ET SI age < 13 ALORS
-
-ECRIRE "Votre catégorie d'age est" , catégorie
-
+	categorie := "Pupille"
 ET SI age < 15 ALORS
-
-ECRIRE "Votre catégorie d'age est", catégorie
-
+	categorie := "Minime"
 ET SI age < 17 ALORS
-
-ECRIRE "Votre catégorie d'age est", catégorie
-
+	categorie := "Cadet"
 ET SI age < 19 ALORS
-
-ECRIRE "Votre catégorie d'age est", catégorie
-
+	categorie := "Junior"
 ET SI age < 35 ALORS
+	categorie := "Senior"
+SINON ALORS
+	categorie := "Veteran"
+	
+AFFICHAGE
 
-ECRIRE "Votre catégorie d'age est", catégorie
+"Votre categorie d'age est ", categorie
 
-ET SI age > 35 ALORS
-ECRIRE "Votre catégorie d'age est ", catégorie
 ```
