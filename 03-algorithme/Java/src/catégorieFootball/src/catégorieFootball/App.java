@@ -7,7 +7,7 @@ public class App {
 	public static void main(String[] args) {
 		
 	int age;
-	String categorie = null;	
+	String categorie;	
 		
 	Scanner sc = new Scanner(System.in);
 		
