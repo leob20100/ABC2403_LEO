@@ -1,7 +1,7 @@
-
+import java.util.Scanner;
 public class App {
 
-import java.util.Scanner;
+
 	
 	public static void main(String[] args) {
 		
@@ -11,7 +11,7 @@ import java.util.Scanner;
 		boolean livrePossede;
 		boolean livreDispoBibliotheque;
 
-		sc = new Scanner (System.in);
+		
 	}
 
 }

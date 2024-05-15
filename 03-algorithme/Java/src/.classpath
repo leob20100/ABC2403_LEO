@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="répographie/src/|aireEtVolume/src/|helloYou/src/|PrédireL&apos;Avenir/src/|positifNégatif/src/|positifNégatifVariante/src/|aireEtVolume/src/secteurCirculaire/src/|beau temps/src/|catégorieFootball/src/|helloWorld/src/|moyenne2Nombre/src/|positifOuNégatif2/src/" kind="src" path=""/>
+	<classpathentry excluding="secteurCirculaire/src/" kind="src" path="aireEtVolume/src"/>
+	<classpathentry kind="src" path="aireEtVolume/src/secteurCirculaire/src"/>
+	<classpathentry kind="src" path="beau temps/src"/>
+	<classpathentry kind="src" path="catégorieFootball/src"/>
+	<classpathentry kind="src" path="helloWorld/src"/>
+	<classpathentry kind="src" path="helloYou/src"/>
+	<classpathentry kind="src" path="moyenne2Nombre/src"/>
+	<classpathentry kind="src" path="positifNégatif/src"/>
+	<classpathentry kind="src" path="positifNégatifVariante/src"/>
+	<classpathentry kind="src" path="positifOuNégatif2/src"/>
+	<classpathentry kind="src" path="PrédireL&apos;Avenir/src"/>
+	<classpathentry kind="src" path="répographie/src"/>
+	<classpathentry kind="output" path="PrédireL&apos;Avenir/bin"/>
+</classpath>

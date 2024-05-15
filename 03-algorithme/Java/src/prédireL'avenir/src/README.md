@@ -22,7 +22,7 @@ LIRE heure, minutes
 
 minutes <-- minutes + 3
 
-SI minutes = 60 ALORS
+SI minutes > 59 ALORS
 minutes <-- 0
 heure <-- heure + 1
 
@@ -31,6 +31,6 @@ heure <-- 0
 
 AFFICHAGE 
 
-ECRIRE " Dans trois minutes
+ECRIRE " Dans trois minutes il sera ", heure, " H et ", minutes, " . "
 
 ```
