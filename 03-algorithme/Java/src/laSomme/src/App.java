@@ -1,0 +1,22 @@
+import java.util.Scanner;
+public class App {
+
+	public static void main(String[] args) {
+		int nombre;
+		int i;
+		int somme;
+		somme = 0;
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Saisissez votre nombre : ");
+		nombre = sc.nextInt();
+		
+		
+		for(i = 1 ; i <= nombre ; i++) {
+			System.out.println("La somme des nombres est de : " + i + " est " + somme );
+		}
+		
+		
+		sc.close();
+	}
+
+}
