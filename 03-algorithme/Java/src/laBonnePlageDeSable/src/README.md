@@ -10,12 +10,12 @@ VARIABLES
 nombre est un ENTIER
 
 TRAITEMENT
-nombre <-- 0
+LIRE nombre 
 
-TANT QUE nombre <= 3
-nombre ++
-FIN TANT QUE
-
-RESULTAT
-ECRIRE "Bravo, vous avez reussi !"
-```
+FAIRE
+ECRIRE "Entrez un nombre entre 1 et 3 : "
+LIRE nombre
+TANT QUE nombre < 1 OU nombre > 3
+LIRE "Bravo, vous avez réussi ! votre nombre est : ", nombre
+nombre++
+``` 

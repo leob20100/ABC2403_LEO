@@ -1,16 +1,19 @@
-
+import java.util.Scanner;
 public class App {
 
 	public static void main(String[] args) {
-		int nombre = 1;
+		int nombre;
+		Scanner sc = new Scanner(System.in);
 		
-		while(nombre <= 3) {
-			System.out.println("nombre vaut " + nombre + " Bravo, vous avez réussi ! ");
-			nombre ++;
+	do  {
+			System.out.println("Entrez un nombre entre 1 et 3 : ");
+			nombre = sc.nextInt();
 			
-		}
-
+		}while (nombre < 1 || nombre > 3 );
+		System.out.println("Bravo, vous avez reussi ! votre nombre est : " + nombre);
+		nombre++;
 		
+		sc.close();
 	}
 
 }
