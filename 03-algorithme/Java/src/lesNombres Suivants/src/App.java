@@ -18,7 +18,7 @@ public class App {
 			System.out.println(nombreDepart + i + ".");
 }
 		
-		sc.close();
+sc.close();	
 
 	}
 

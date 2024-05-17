@@ -13,7 +13,7 @@ public class App {
 		
 		for(i = 1 ; i <= nombre ; i++) {
 			somme+=nombre;
-			System.out.println("La somme des nombres est de : " + i + " est " + somme );
+			System.out.println("La somme des nombres jusque " + nombre + " est : " + somme );
 		}
 		
 		

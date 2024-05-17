@@ -21,5 +21,6 @@ LIRE nombre
 somme <-- 0
 
 POUR i de 1 à nombre, somme de somme + i
-ECRIRE "La somme est : ", somme
+LIRE somme+=nombre
+ECRIRE "La somme des nombres jusque", nombre, "est :", somme
 ```
