@@ -19,6 +19,8 @@ for (i = 1; i<20; i++) {
 	}
 	System.out.println("Le plus grand des nombres saisis est : " + pg + " . ");
 	System.out.println(pg + " était le nombre numéro " + ipg + " . ");
+	
+	sc.close();
 }
 }
 	
