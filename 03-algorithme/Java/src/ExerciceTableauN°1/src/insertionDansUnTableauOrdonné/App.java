@@ -22,12 +22,13 @@ public class App {
 		
 		
 		
+		
 		System.out.println("Le tableau initial :" + Arrays.toString(tableau));
 		
 		int x = 7;
 		
 		tableau = App.ajoutX(tableau, x);
-		
+		Arrays.sort(tableau);
 		System.out.println("Le nouveau tableau avec " + x + " ajouté : " + Arrays.toString(tableau));
 		
 		}
