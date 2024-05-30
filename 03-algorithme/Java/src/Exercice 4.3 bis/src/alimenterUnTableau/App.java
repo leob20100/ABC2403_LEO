@@ -1,15 +1,9 @@
+package alimenterUnTableau;
 
 public class App {
 
 	public static void main(String[] args) {
-		
-		int [] tableau = new int[7];
-		
-		
-		
-		
-		
-	
+		// TODO Auto-generated method stub
 
 	}
 
