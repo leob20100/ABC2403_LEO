@@ -4,36 +4,29 @@ public class App {
 
 	public static void main(String[] args) {
 		
-		int[] tableau1; // Déclaration du 1er tableau
-		int[] tableau2; // Déclaration du 2nd tableau
-		int resultatTableau; // résultat du calcul
-		
-		resultatTableau = 0; // Initialisation du résultat à 0
-		tableau1 = new int[] { 4, 8, 7, 12 }; // Initialisation du 1er tableau
-		tableau2 = new int[] { 3, 6 }; // Initialisation du 2nd tableau
-		
-		/**
-		 * POUR i de 0 à tableau1.length-1, incrémenter i
-		 * 		POUR j de 0 à tableau2.length-1, incrémenter j
-		 * 			resultatTableau = resultatTableau + tableau1[i] * tableau2[j]
-		 * 		FIN POUR
-		 * FIN POUR
-		 */
-		for(int i = 0; i < tableau1.length; i++) {
+			int i;
 			
-			for(int j = 0; j < tableau2.length; j++) {
-				resultatTableau += tableau1[i] * tableau2[j];
+			int[] tableau;
+			int [] tableau2;
+			int [] tableau3;
+			
+			tableau = new int [] {4, 8, 7, 9, 1, 5, 4, 6};
+			tableau2 = new int [] {7, 6, 5, 2, 1, 3, 7, 4};
+			tableau3 = new int [8];
+			
+			for(i = 0; i < tableau.length; i++) {
+				
+				tableau3[i] = tableau[i] + tableau2[i];
 			}
-			
-		}
-		
-		System.out.println(resultatTableau);
-
+	
+	System.out.println("Le résultat des deux tableaux sont : " + tableau3);
+	
 	}
-
+}		
+		
 
 		
 		
 	
 
-}
+	
