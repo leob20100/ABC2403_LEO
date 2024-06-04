@@ -25,20 +25,17 @@ public class App {
 	}
 	
 	public static void main(String[] args) {
+		
 		App.afficherJourEtHeure();
-		System.out.println();
 		
 		
 		String nomComplet;
 		nomComplet = App.concatenerPrenomNom("Léo", "Besson");
 		System.out.println(nomComplet);
 		
-		
 		double deuxValeurs;
 		deuxValeurs = App.additioner(2, 3);
 		System.out.println(deuxValeurs);
-		
-		
 		
 		}
 }
