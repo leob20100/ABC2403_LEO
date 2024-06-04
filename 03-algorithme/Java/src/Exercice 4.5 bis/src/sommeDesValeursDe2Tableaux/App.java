@@ -19,7 +19,7 @@ public class App {
 				tableau3[i] = tableau[i] + tableau2[i];
 			}
 	
-	System.out.println("Le résultat des deux tableaux sont : " + tableau3);
+	
 	
 	}
 }		

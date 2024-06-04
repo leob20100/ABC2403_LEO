@@ -18,7 +18,7 @@ public class App {
 	public static void main(String[] args) {
 		int nombre;
 		
-		int [] tableau = {1, 4, 5, 10, 20, 22, 25, 30, 32};;
+		int [] tableau = {1, 4, 5, 10, 20, 22, 25, 30, 32};
 		
 		
 		
