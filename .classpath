@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="paiementEtRenduMonnaie/src/|Exercice 4.1 bis/src/|Exercice 4.7/src/|beau temps/src/|PrédireL&apos;Avenir/src/|helloYou/src/|laBonnePlageDeGalets/src/|Exercice 4.3 bis/src/|Exercice 4.4 bis/src/|aireEtVolume/src/|positifOuNégatif2/src/|positifNégatifVariante/src/|etLePlusGrand/src/|ExerciceTableauN°2/src/|laBonnePlageDeSable/src/|aireEtVolume/src/secteurCirculaire/src/|Exercice 4.8/src/|exoFonctions2/src/|lesNombres Suivants/src/|Exercice 4.5 bis/src/|laSomme/src/|etLePlusGrandEst...Encore/src/|Demowhile/src/|répographie/src/|positifNégatif/src/|Exercice 4.2 bis/src/|laFactorielle/src/|demoTableaux/src/|Exercice 4.6 bis/src/|ExerciceTableauN°1/src/|catégorieFootball/src/|helloWorld/src/|moyenne2Nombre/src/" kind="src" path="03-algorithme/Java/src"/>
+	<classpathentry excluding="secteurCirculaire/src/" kind="src" path="03-algorithme/Java/src/aireEtVolume/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/aireEtVolume/src/secteurCirculaire/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/beau temps/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/catégorieFootball/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/demoTableaux/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/Demowhile/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/etLePlusGrand/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/etLePlusGrandEst...Encore/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/Exercice 4.1 bis/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/Exercice 4.2 bis/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/Exercice 4.3 bis/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/Exercice 4.4 bis/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/Exercice 4.5 bis/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/Exercice 4.6 bis/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/Exercice 4.7/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/Exercice 4.8/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/ExerciceTableauN°1/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/ExerciceTableauN°2/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/exoFonctions2/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/helloWorld/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/helloYou/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/laBonnePlageDeGalets/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/laBonnePlageDeSable/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/laFactorielle/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/laSomme/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/lesNombres Suivants/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/moyenne2Nombre/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/paiementEtRenduMonnaie/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/positifNégatif/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/positifNégatifVariante/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/positifOuNégatif2/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/PrédireL&apos;Avenir/src"/>
+	<classpathentry kind="src" path="03-algorithme/Java/src/répographie/src"/>
+	<classpathentry kind="src" path="objets/src"/>
+	<classpathentry kind="output" path="03-algorithme/Java/bin"/>
+</classpath>
